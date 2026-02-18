@@ -1,0 +1,79 @@
+ body {
+    background-image: url(./Ellipse\ 36.svg);
+    padding-top: 20px;
+ }
+
+ .navbar-brand {
+    color: #54BD95;
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 350px;
+ }
+
+ #nav {
+    margin-left: 40px;
+ }
+
+ #head {
+    padding: 90px;
+ }
+
+ #btn {
+    margin-left: 80px;
+    margin-top: -120px;
+    border-radius: 30px;
+    padding: 9px;
+    width: 130px;
+ }
+
+ #icon {
+    position: relative;
+    top: -55px;
+    left: 20px;
+ }
+
+ #para {
+    margin-top: -80px;
+    margin-left: 260px;
+ }
+
+ #img {
+    margin-left: 350px;
+    margin-top: -300px;
+ }
+
+ #head2 {
+    padding: 30px;
+    text-align: center;
+ }
+
+ #para2 {
+    margin-top: -80px;
+ }
+
+ #img2 {
+    margin-top: -240px;
+    margin-left: 100px;
+ }
+
+ #btn2 {
+    border-radius: 30px;
+    padding: 9px;
+    width: 110px;
+ }
+
+ #group {
+
+    background-color: #161C28;
+    color: white;
+    padding: 50px;
+ }
+
+ #form {
+    margin-top: -700px;
+    margin-left: 500px;
+ }
+
+ #para3{
+   margin-left: 150px;
+ }
